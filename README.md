@@ -11,3 +11,6 @@ We are going to explore a dataset about certain factors that contribute to obesi
 * Frequent consumption of high caloric food (FAVC)
 
 Scientist, nutritionist, doctors and individuals will find this model very useful because it will help them pinpoint common causes of obesity and come up with more effective treatments and preventataive measures. These groups would prefer a classifier that is equally good at classifying positives and negatives because poor performance for either could cause undetected health conditions or medical overtreatment. We would also like our chosen model to provide reliable interpretative insights about the nature of the relationship between the variables in the dataset.
+
+---
+***Contributors**: Idunnuoluwa Akinola, Zach Goldstein, Anh Do*
