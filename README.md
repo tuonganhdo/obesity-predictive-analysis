@@ -1,4 +1,4 @@
-# stat-207-final-project
+# STAT 207 Final Project - Predictive Analysis on Obesity
 
 According to the WHO, "Rates of overweight and obesity continue to grow in adults and children. From 1975 to 2016, the prevalence of overweight or obese children and adolescents aged 5–19 years increased more than four-fold from 4% to 18% globally" (WHO, 2020). The prevalence of obesity is the result of certain factors which include lifestyle, diet, physical activties and broader environment (Mayo Clinic, 2023). Changes in work, transportation, and leisure activities have led to more sedentary lifestyles. Desk jobs, reliance on cars, and increased screen time contribute to a lack of physical activity. Some individuals may have a genetic predisposition to obesity, making it more challenging for them to maintain a healthy weight. A model that predicts whether a person may be at risk for obesity for new datasets would help those affected seek preventative treatment.
 
